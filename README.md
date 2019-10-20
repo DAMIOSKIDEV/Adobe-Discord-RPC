@@ -6,7 +6,7 @@
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![GitHub issues](https://img.shields.io/github/issues/smokes/adobe-rpc.svg)](https://GitHub.com/smokes/adobe-rpc/issues/)
 
-L'Adobe Rich Precense est fait pour afficher ce que vous faites actuellement dans la plupart des applications d'Adobe.
+L'Adobe Rich Presence est fait pour afficher ce que vous faites actuellement dans la plupart des applications d'Adobe.
 
 ## Ce que vous avez besoin
 
