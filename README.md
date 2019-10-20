@@ -18,7 +18,7 @@ L'Adobe Rich Precense est fait pour afficher ce que vous faites actuellement dan
 - Télécharger la dernière version
 - Assurez-vous que vous utilisez une application Adobe.
 - Installez les paquets requis en exécutant le fichier `Install requierements.exe`.
-- Exécutez le fichier `Adobe RPC.exe``.
+- Exécutez le fichier `Adobe RPC.exe`.
 - Amusez-vous bien !
 
 ## Aperçu
