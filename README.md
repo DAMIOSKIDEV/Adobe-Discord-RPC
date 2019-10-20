@@ -41,6 +41,8 @@ L'Adobe Rich Presence est fait pour afficher ce que vous faites actuellement dan
 
 **adobe-rpc** ne prends actuellement pas en charge: Media Encoder, Xd et Audition. Veuillez envoyer un fichier dans lequel vous ajoutez une application que nous n'avons pas encore ajouté au fichier **meta.json**, où vous spécifiez le nom du processus de l'application.
 
+[header]: https://i.imgur.com/zGFYunZ.png "Repo header"
+
 ## Disclaimer
 
 Ce projet n'appartient pas à THEMIO mais est repris par lui afin de traduire et d'améliorer le code.
