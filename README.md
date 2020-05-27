@@ -17,7 +17,7 @@ L'Adobe Rich Presence est fait pour afficher ce que vous faites actuellement dan
 
 - Télécharger la dernière version
 - Assurez-vous que vous utilisez une application Adobe.
-- Installez les paquets requis en exécutant le fichier `Install requierements.exe`.
+- Installez les paquets requis en exécutant le fichier `Installation des requierements.exe`.
 - Exécutez le fichier `Adobe RPC.exe`.
 - Amusez-vous bien !
 
