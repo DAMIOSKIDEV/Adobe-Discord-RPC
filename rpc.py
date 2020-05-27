@@ -38,8 +38,8 @@ def update_loop():
             time.sleep(15)
     except:
         rich_presence.clear()
-        print("Run Adobe/Discord app")
-        time.sleep(5)
+        print("No Adobe APP Detected")
+        time.sleep(15)
         update_loop()
 
 try:
