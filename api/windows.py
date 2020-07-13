@@ -26,6 +26,8 @@ def get_process_info():
         process_name = element['processName']
         for process in psutil.process_iter():
             process_info = process.as_dict(attrs=['pid', 'name'])
+            if process_info['name'] == None:
+                continue
             if process_info['name'].lower() in process_name:
                 element['pid'] = process_info['pid']
                 return element
