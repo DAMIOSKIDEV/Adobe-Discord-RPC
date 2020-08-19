@@ -61,5 +61,14 @@
 		"smallImageKey": "mediaencoder_small",
 		"largeText": "Adobe Media Encoder",
 		"smallText": "Rendering"
+	},
+ 	{
+		"processName": "Dreamweaver.exe",
+		"splitBy": " - ",
+		"splitIndex": 1,
+		"largeImageKey": "dreamweaver_large",
+		"smallImageKey": "Dreamweaver_small",
+		"largeText": "Adobe Dreamweaver",
+		"smallText": "Coding"
 	}
 ]
