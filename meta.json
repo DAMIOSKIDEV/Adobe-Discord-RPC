@@ -52,5 +52,14 @@
 		"smallImageKey": "indesign_small",
 		"largeText": "Adobe InDesign",
 		"smallText": "Editing"
+	},
+ 	{
+		"processName": "adobe media encoder.exe",
+		"splitBy": " - ",
+		"splitIndex": 1,
+		"largeImageKey": "mediaencoder_large",
+		"smallImageKey": "mediaencoder_small",
+		"largeText": "Adobe Media Encoder",
+		"smallText": "Rendering"
 	}
 ]
